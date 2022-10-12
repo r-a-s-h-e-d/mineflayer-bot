@@ -1,1 +1,1 @@
-# mineflayer-bot
+# Mineflayer Bot
